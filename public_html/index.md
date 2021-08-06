@@ -4,8 +4,6 @@ This is a list of the books that I have read. I'm sure I've missed or forgotten
 many from before I began tracking them. I didn't record the dates until 2010. Books logged before then use
 1999-01-01 as the date.
 
-I also try to keep my [Goodreads Profile](https://www.goodreads.com/user/show/1259384-jack-baty) up to date.<br><br>
-
 ----
 
 - **Trixie Belden and the Red Trailer Mystery** by Julie Campbell (1999-01-01)
