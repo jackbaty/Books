@@ -2,6 +2,9 @@
 title: Books read by Jack Baty
 ---
 
+# Books read by Jack Baty
+
+
 This is a list of the books that I have read. I'm sure I've missed or forgotten
 many from before I began tracking them. I didn't record the dates until 2010. Books logged before then use
 1999-01-01 as the date.
