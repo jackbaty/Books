@@ -458,18 +458,18 @@ I also try to keep my [Goodreads Profile](https://www.goodreads.com/user/show/12
 - **More Effective Agile** by Steve McConnell (2020-10-10) | ★★★
 - **Futuristic Violence and Fancy Suits (Zoey Ashe, #1)** by David Wong (2020-12-27) | ★★★★
 - **The Mote in God's Eye** by Jerry Pournelle, Larry Niven (2021-01-22) | ★★★★
-- **Zoey Punches the Future in the Dick** by David Wong (2021-01-27) | ****
-- **Handmade: Creative Focus in the Age of Distraction** by Gary Rogowski (2021-02-19) | ****
-- **The Scar** by China Miéville (2021-02-26) | ****
-- **Lexicon** by Max Barry (2021-03-09) | ****
-- **Zero World** by - Jason M. Hough (2021-04-17) | ***
-- **Fugitive Telemetry (The Murderbot Diaries, #6)** by Martha Wells (2021-05-01) | ****
-- **Project Hail Mary** by Andy Weir (2021-05-18) | ****
-- **Having and Being Had** by Eula Bliss (2021-06-01) | ***
-- **The Institute** by Stephen King (2021-06-03) | ***
-- **The Midnight Library** by Matt Haig (2021-07-29) | ***
-- **Elevation** by Stephen King (2021-08-02) | ****
-- **A Swim In The Pond In The Rain** by George Saunders (2021-08-05) | ***
+- **Zoey Punches the Future in the Dick** by David Wong (2021-01-27) | ★★★★
+- **Handmade: Creative Focus in the Age of Distraction** by Gary Rogowski (2021-02-19) | ★★★★
+- **The Scar** by China Miéville (2021-02-26) | ★★★★
+- **Lexicon** by Max Barry (2021-03-09) | ★★★★
+- **Zero World** by - Jason M. Hough (2021-04-17) | ★★★
+- **Fugitive Telemetry (The Murderbot Diaries, #6)** by Martha Wells (2021-05-01) | ★★★★
+- **Project Hail Mary** by Andy Weir (2021-05-18) | ★★★★
+- **Having and Being Had** by Eula Bliss (2021-06-01) | ★★★
+- **The Institute** by Stephen King (2021-06-03) | ★★★
+- **The Midnight Library** by Matt Haig (2021-07-29) | ★★★
+- **Elevation** by Stephen King (2021-08-02) | ★★★★
+- **A Swim In The Pond In The Rain** by George Saunders (2021-08-05) | ★★★
 
 
 
