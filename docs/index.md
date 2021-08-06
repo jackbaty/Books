@@ -1,4 +1,6 @@
-# Books read by Jack Baty
+---
+title: Books read by Jack Baty
+---
 
 This is a list of the books that I have read. I'm sure I've missed or forgotten
 many from before I began tracking them. I didn't record the dates until 2010. Books logged before then use
@@ -409,65 +411,65 @@ many from before I began tracking them. I didn't record the dates until 2010. Bo
 - **Old Man's War** by John Scalzi (2019-01-02)
 - **Travels with Epicurus** by Daniel Klein (2019-01-06)
 - **The Ghost Brigades** by John Scalzi (2019-01-08)
-- **How to Fix the Future** by Andrew Keen (2019-01-09) | ★★★
-- **Mastering Emacs** by Mickey Petersen (2019-01-20) | ★★★★
-- **Killing Floor (Jack Reacher, #1)** by Lee Child (2019-01-25) | ★★★★
-- **Artificial Condition (The Murderbot Diaries, #2)** by Martha Wells (2019-01-20) | ★★★★
-- **Rogue Protocol (The Murderbot Diaries, #3)** by Martha Wells (2019-01-20) | ★★★★
-- **Digital Minimalism: Choosing a Focused Life in a Noisy World** by Cal Newport (2019-02-16) | ★★★★
-- **Team Human** by Douglas Rushkoff (2019-02-17) | ★★★
-- **Exit Strategy (The Murderbot Diaries, #4)** by Martha Wells (2019-02-17) | ★★★★
-- **The Three-Body Problem (Remembrance of Earth’s Past, #1)** by Cixin Liu (2019-03-03) | ★★★★★
-- **The Dark Forest (Remembrance of Earth’s Past, #2)** by Cixin Liu (2019-03-25) | ★★★★
-- **Atomic Habits** by James Clear (2019-04-09) | ★★★
-- **Glut: Mastering Information through the Ages** by Alex Wright (2019-04-14) | ★★★
-- **Kafka on the Shore** by Haruki Murakami (2019-05-14) | ★★★★★
-- **The Library Book** by Susan Orlean (2019-05-29) | ★★★★
-- **The Art of Noticing** by Rob Walker (2019-06-04) | ★★★
-- **NOS4A2** by Joe Hill (2019-06-27) | ★★
-- **Fall; or, Dodge in Hell** by Neal Stephenson | ★★★
-- **Space Opera** by Catherynne M. Valente (2019-07-20) | ★★
-- **Armada** by Ernest Cline (2019-07-25) | ★★★
-- **Road to Seeing** by Dan Winters (2019-08-04) | ★★★★★
-- **We Are Legion (We Are Bob)** by Dennis E. Taylor (2019-08-13) | ★★★
-- **Gregory Heisler: 50 Portraits** by Gregory Heisler (2019-08-13) | ★★★★★
-- **Divine Misfortune** by A. Lee Martinez (2019-08-27) | ★★★★
-- **Instant: The Story of Polaroid** by Christopher Bonanos (2019-09-08) | ★★★★
-- **Slaughterhouse-Five** by Kurt Vonnegut Jr (2019-09-18) | ★★★★
-- **Daisy Jones & The Six** by Taylor Jenkins Reid (2019-09-27) | ★★★
-- **The Gone World** by Tom Sweterlitsch (2019-10-05) | ★★★
-- **Gil's All Fright Diner** by A. Lee Martinez (2019-10-10) | ★★★★
-- **What Should I Do with My Life?** by Po Bronson (2019-11-07) | ★★★
-- **Ancillary Justice (Imperial Radch #1)** by Ann Leckie (2019-11-21) | ★★
-- **The Art of Frugal Hedonism** by Annie Raser-Rowland (2019-11-29) | ★★★
-- **A Gentle Madness: Bibliophiles, Bibliomanes, and the Eternal Passion for Books** by Nicholas A. Basbanes (2020-01-05) | ★★★★
-- **How to Do Nothing** by Jenny Odell (2020-02-05) | ★★
-- **The Instructions** by Adam Levin (2020-02-15) | ★★★★
-- **The Wisdom of Insecurity** by Alan W. Watts (2020-03-06) | ★★
-- **American Dirt** by Jeanine Cummins (2020-03-09) | ★
-- **Recursion** by Black Crouch (2020-04-05) | ★★★
-- **The Phoenix Project** by Gene Kim | ★★★
-- **Devoted** by Dean Koontz (2020-04-23) | ★★★
-- **The Soul of an Entrepreneur** by David Sax (2020-05-04) | ★★★
-- **Shakespeare for Squirrels** by Christopher Moore (2020-06-09) | ★★★
-- **Network Effect (The Murderbot Diaries, #5)** by Martha Wells (2020-06-24) | ★★★★
-- **Dark Matter** by Blake Crouch (2020-07-19) | ★★★★
-- **The Permanent Portfolio** by Craig Rowland (2020-07-22) | ★★★
-- **More Effective Agile** by Steve McConnell (2020-10-10) | ★★★
-- **Futuristic Violence and Fancy Suits (Zoey Ashe, #1)** by David Wong (2020-12-27) | ★★★★
-- **The Mote in God's Eye** by Jerry Pournelle, Larry Niven (2021-01-22) | ★★★★
-- **Zoey Punches the Future in the Dick** by David Wong (2021-01-27) | ★★★★
-- **Handmade: Creative Focus in the Age of Distraction** by Gary Rogowski (2021-02-19) | ★★★★
-- **The Scar** by China Miéville (2021-02-26) | ★★★★
-- **Lexicon** by Max Barry (2021-03-09) | ★★★★
-- **Zero World** by - Jason M. Hough (2021-04-17) | ★★★
-- **Fugitive Telemetry (The Murderbot Diaries, #6)** by Martha Wells (2021-05-01) | ★★★★
-- **Project Hail Mary** by Andy Weir (2021-05-18) | ★★★★
-- **Having and Being Had** by Eula Bliss (2021-06-01) | ★★★
-- **The Institute** by Stephen King (2021-06-03) | ★★★
-- **The Midnight Library** by Matt Haig (2021-07-29) | ★★★
-- **Elevation** by Stephen King (2021-08-02) | ★★★★
-- **A Swim In The Pond In The Rain** by George Saunders (2021-08-05) | ★★★
+- **How to Fix the Future** by Andrew Keen (2019-01-09) // ★★★
+- **Mastering Emacs** by Mickey Petersen (2019-01-20) // ★★★★
+- **Killing Floor (Jack Reacher, #1)** by Lee Child (2019-01-25) // ★★★★
+- **Artificial Condition (The Murderbot Diaries, #2)** by Martha Wells (2019-01-20) // ★★★★
+- **Rogue Protocol (The Murderbot Diaries, #3)** by Martha Wells (2019-01-20) // ★★★★
+- **Digital Minimalism: Choosing a Focused Life in a Noisy World** by Cal Newport (2019-02-16) // ★★★★
+- **Team Human** by Douglas Rushkoff (2019-02-17) // ★★★
+- **Exit Strategy (The Murderbot Diaries, #4)** by Martha Wells (2019-02-17) // ★★★★
+- **The Three-Body Problem (Remembrance of Earth’s Past, #1)** by Cixin Liu (2019-03-03) // ★★★★★
+- **The Dark Forest (Remembrance of Earth’s Past, #2)** by Cixin Liu (2019-03-25) // ★★★★
+- **Atomic Habits** by James Clear (2019-04-09) // ★★★
+- **Glut: Mastering Information through the Ages** by Alex Wright (2019-04-14) // ★★★
+- **Kafka on the Shore** by Haruki Murakami (2019-05-14) // ★★★★★
+- **The Library Book** by Susan Orlean (2019-05-29) // ★★★★
+- **The Art of Noticing** by Rob Walker (2019-06-04) // ★★★
+- **NOS4A2** by Joe Hill (2019-06-27) // ★★
+- **Fall; or, Dodge in Hell** by Neal Stephenson // ★★★
+- **Space Opera** by Catherynne M. Valente (2019-07-20) // ★★
+- **Armada** by Ernest Cline (2019-07-25) // ★★★
+- **Road to Seeing** by Dan Winters (2019-08-04) // ★★★★★
+- **We Are Legion (We Are Bob)** by Dennis E. Taylor (2019-08-13) // ★★★
+- **Gregory Heisler: 50 Portraits** by Gregory Heisler (2019-08-13) // ★★★★★
+- **Divine Misfortune** by A. Lee Martinez (2019-08-27) // ★★★★
+- **Instant: The Story of Polaroid** by Christopher Bonanos (2019-09-08) // ★★★★
+- **Slaughterhouse-Five** by Kurt Vonnegut Jr (2019-09-18) // ★★★★
+- **Daisy Jones & The Six** by Taylor Jenkins Reid (2019-09-27) // ★★★
+- **The Gone World** by Tom Sweterlitsch (2019-10-05) // ★★★
+- **Gil's All Fright Diner** by A. Lee Martinez (2019-10-10) // ★★★★
+- **What Should I Do with My Life?** by Po Bronson (2019-11-07) // ★★★
+- **Ancillary Justice (Imperial Radch #1)** by Ann Leckie (2019-11-21) // ★★
+- **The Art of Frugal Hedonism** by Annie Raser-Rowland (2019-11-29) // ★★★
+- **A Gentle Madness: Bibliophiles, Bibliomanes, and the Eternal Passion for Books** by Nicholas A. Basbanes (2020-01-05) // ★★★★
+- **How to Do Nothing** by Jenny Odell (2020-02-05) // ★★
+- **The Instructions** by Adam Levin (2020-02-15) // ★★★★
+- **The Wisdom of Insecurity** by Alan W. Watts (2020-03-06) // ★★
+- **American Dirt** by Jeanine Cummins (2020-03-09) // ★
+- **Recursion** by Black Crouch (2020-04-05) // ★★★
+- **The Phoenix Project** by Gene Kim // ★★★
+- **Devoted** by Dean Koontz (2020-04-23) // ★★★
+- **The Soul of an Entrepreneur** by David Sax (2020-05-04) // ★★★
+- **Shakespeare for Squirrels** by Christopher Moore (2020-06-09) // ★★★
+- **Network Effect (The Murderbot Diaries, #5)** by Martha Wells (2020-06-24) // ★★★★
+- **Dark Matter** by Blake Crouch (2020-07-19) // ★★★★
+- **The Permanent Portfolio** by Craig Rowland (2020-07-22) // ★★★
+- **More Effective Agile** by Steve McConnell (2020-10-10) // ★★★
+- **Futuristic Violence and Fancy Suits (Zoey Ashe, #1)** by David Wong (2020-12-27) // ★★★★
+- **The Mote in God's Eye** by Jerry Pournelle, Larry Niven (2021-01-22) // ★★★★
+- **Zoey Punches the Future in the Dick** by David Wong (2021-01-27) // ★★★★
+- **Handmade: Creative Focus in the Age of Distraction** by Gary Rogowski (2021-02-19) // ★★★★
+- **The Scar** by China Miéville (2021-02-26) // ★★★★
+- **Lexicon** by Max Barry (2021-03-09) // ★★★★
+- **Zero World** by - Jason M. Hough (2021-04-17) // ★★★
+- **Fugitive Telemetry (The Murderbot Diaries, #6)** by Martha Wells (2021-05-01) // ★★★★
+- **Project Hail Mary** by Andy Weir (2021-05-18) // ★★★★
+- **Having and Being Had** by Eula Bliss (2021-06-01) // ★★★
+- **The Institute** by Stephen King (2021-06-03) // ★★★
+- **The Midnight Library** by Matt Haig (2021-07-29) // ★★★
+- **Elevation** by Stephen King (2021-08-02) // ★★★★
+- **A Swim In The Pond In The Rain** by George Saunders (2021-08-05) // ★★★
 
 
 
