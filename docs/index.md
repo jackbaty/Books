@@ -9,6 +9,14 @@ This is a list of the books that I have read. I'm sure I've missed or forgotten
 many from before I began tracking them. I didn't record the dates until 2010. Books logged before then use
 1999-01-01 as the date.
 
+My rating system works like this:
+
+⭐️⭐️⭐️⭐️⭐️ Loved it!
+⭐️⭐️⭐️⭐️ It was good
+⭐️⭐️⭐️ It was OK
+⭐️⭐️ I didn’t like it
+⭐️ Hated it
+
 Most recently-read books are shown first.
 
 ----
