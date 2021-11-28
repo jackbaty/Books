@@ -11,11 +11,11 @@ many from before I began tracking them. I didn't record the dates until 2010. Bo
 
 My rating system works like this:
 
-⭐️⭐️⭐️⭐️⭐️ Loved it!
-⭐️⭐️⭐️⭐️ It was good
-⭐️⭐️⭐️ It was OK
-⭐️⭐️ I didn’t like it
-⭐️ Hated it
+⭐️⭐️⭐️⭐️⭐️ Loved it!  
+⭐️⭐️⭐️⭐️ It was good  
+⭐️⭐️⭐️ It was OK  
+⭐️⭐️ I didn’t like it  
+⭐️ Hated it  
 
 Most recently-read books are shown first.
 
