@@ -12,14 +12,22 @@ many from before I began tracking them. I didn't record the dates until 2010. Bo
 Newest books are shown first.
 
 ----
+- **A Box of Matches** by Nicholson Baker (2021-11-28) // ★★★★
+- **Greenlights** by Matthew McConnaughey (2021-11-02) // ★★★★
+- **How To Be an Anti-Racist** by Ibram X. Kendi (2021-10-21) // ★★★★
+- **The Alchemist** by Paulo Coelho (2021-09-26) // ★★
+- **Dune** by Frank Herbert (2021-09-14) // ★★★★★
 - **A Swim In The Pond In The Rain** by George Saunders (2021-08-05) // ★★★
 - **Elevation** by Stephen King (2021-08-02) // ★★★★
 - **The Midnight Library** by Matt Haig (2021-07-29) // ★★★
+- **Klara and The Sun** by Kazuo Ishiguro (2021-06-26) // ★★★★★
 - **The Institute** by Stephen King (2021-06-03) // ★★★
 - **Having and Being Had** by Eula Bliss (2021-06-01) // ★★★
 - **Project Hail Mary** by Andy Weir (2021-05-18) // ★★★★
 - **Fugitive Telemetry (The Murderbot Diaries, #6)** by Martha Wells (2021-05-01) // ★★★★
+- **What Makes This Book So Great?** by Jo Walton (2021-05-04) // ★★★★
 - **Zero World** by - Jason M. Hough (2021-04-17) // ★★★
+- **The Longing for Less** by Kyle Chayka (2021-04-05) // ★★★
 - **Lexicon** by Max Barry (2021-03-09) // ★★★★
 - **The Scar** by China Miéville (2021-02-26) // ★★★★
 - **Handmade: Creative Focus in the Age of Distraction** by Gary Rogowski (2021-02-19) // ★★★★
