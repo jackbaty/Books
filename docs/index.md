@@ -9,7 +9,7 @@ This is a list of the books that I have read. I'm sure I've missed or forgotten
 many from before I began tracking them. I didn't record the dates until 2010. Books logged before then use
 1999-01-01 as the date.
 
-Newest books are shown first.
+Most recently-read books are shown first.
 
 ----
 - **A Box of Matches** by Nicholson Baker (2021-11-28) // ★★★★
