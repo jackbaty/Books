@@ -11,15 +11,17 @@ many from before I began tracking them. I didn't record the dates until 2010. Bo
 
 My rating system works like this:
 
-⭐️⭐️⭐️⭐️⭐️ Loved it!  
-⭐️⭐️⭐️⭐️ It was good  
-⭐️⭐️⭐️ It was OK  
-⭐️⭐️ I didn’t like it  
-⭐️ Hated it  
+⭐️⭐️⭐️⭐️⭐️ - Loved it!  
+⭐️⭐️⭐️⭐️ - It was good  
+⭐️⭐️⭐️ - It was OK  
+⭐️⭐️ - I didn’t like it  
+⭐️ - Hated it  
+DNF - Did Not Finish
 
 Most recently-read books are shown first.
 
 ----
+- **Four Thousand Weeks** by Oliver Burkeman (2022-01-06 // DNF
 - **100 Things We've Lost to the Internet** by Pamela Paul (2021-12-06) // ★★★
 - **A Box of Matches** by Nicholson Baker (2021-11-28) // ★★★★
 - **Greenlights** by Matthew McConnaughey (2021-11-02) // ★★★★
