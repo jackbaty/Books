@@ -21,7 +21,7 @@ DNF - Did Not Finish
 Most recently-read books are shown first.
 
 ----
-- **Four Thousand Weeks** by Oliver Burkeman (2022-01-06 // DNF
+- **Four Thousand Weeks** by Oliver Burkeman (2022-01-06) // DNF
 - **100 Things We've Lost to the Internet** by Pamela Paul (2021-12-06) // ★★★
 - **A Box of Matches** by Nicholson Baker (2021-11-28) // ★★★★
 - **Greenlights** by Matthew McConnaughey (2021-11-02) // ★★★★
