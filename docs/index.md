@@ -22,6 +22,7 @@ Most recently-read books are shown first.
 
 
 ----
+- **The Scout Mindset: Why Some People See Things Clearly and Others Don'tThe Scout Mindset** by Julia Galef (2022-03-01) // ★★★★★
 - **Later** by Stephen King (2022-02-22) // ★★★
 - **Doomsday Book (Oxford Time Travel, #1)** by Connie Willis (2022-02-14) // ★★★★
 - **Four Thousand Weeks** by Oliver Burkeman (2022-01-06) // DNF
