@@ -22,6 +22,7 @@ Most recently-read books are shown first.
 
 
 ----
+- **The Future of Stuff** by Vinay Gupta (2022-03-06) // ★★★
 - **The Scout Mindset: Why Some People See Things Clearly and Others Don'tThe Scout Mindset** by Julia Galef (2022-03-01) // ★★★★★
 - **Later** by Stephen King (2022-02-22) // ★★★
 - **Doomsday Book (Oxford Time Travel, #1)** by Connie Willis (2022-02-14) // ★★★★
