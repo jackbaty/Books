@@ -22,6 +22,7 @@ Most recently-read books are shown first.
 
 
 ----
+- **The Real Deal: Field Notes from the Life of a Working Photographer** by Joe McNally (2022-04-07) // ★★★
 - **The Future of Stuff** by Vinay Gupta (2022-03-06) // ★★★
 - **The Scout Mindset: Why Some People See Things Clearly and Others Don'tThe Scout Mindset** by Julia Galef (2022-03-01) // ★★★★★
 - **Later** by Stephen King (2022-02-22) // ★★★
