@@ -24,6 +24,7 @@ Most recently-read books are shown first.
 ----
 - **Vivian Maier Developed: The Untold Story of the Photographer Nanny** by Ann Marks (2022-04-24) // ★★★★
 - **Analogia: The Emergence of Technology Beyond Programmable Control** by George Dyson (2022-04-19) // ★★★
+- **Leonardo da Vinci** by Walter Isaacson (2022-04-11) // ★★★★
 - **The Real Deal: Field Notes from the Life of a Working Photographer** by Joe McNally (2022-04-07) // ★★★
 - **The Future of Stuff** by Vinay Gupta (2022-03-06) // ★★★
 - **The Scout Mindset: Why Some People See Things Clearly and Others Don'tThe Scout Mindset** by Julia Galef (2022-03-01) // ★★★★★
