@@ -20,8 +20,10 @@ DNF - Did Not Finish
 
 Most recently-read books are shown first.
 
+ 
 
 ----
+- **No One Is Talking About This** by Patricia Lockwood (2022-05-03) // ★★★★
 - **Vivian Maier Developed: The Untold Story of the Photographer Nanny** by Ann Marks (2022-04-24) // ★★★★
 - **Analogia: The Emergence of Technology Beyond Programmable Control** by George Dyson (2022-04-19) // ★★★
 - **Leonardo da Vinci** by Walter Isaacson (2022-04-11) // ★★★★
