@@ -23,6 +23,7 @@ Most recently-read books are shown first.
  
 
 ----
+- **At the Quiet Edge** by Victoria Helen Stone (2022-05-25) // ★★★
 - **No One Is Talking About This** by Patricia Lockwood (2022-05-03) // ★★★★
 - **Vivian Maier Developed: The Untold Story of the Photographer Nanny** by Ann Marks (2022-04-24) // ★★★★
 - **Analogia: The Emergence of Technology Beyond Programmable Control** by George Dyson (2022-04-19) // ★★★
