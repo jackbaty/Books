@@ -20,9 +20,9 @@ DNF - Did Not Finish
 
 Most recently-read books are shown first.
 
-
 ----
 - **The Daily Laws** by Robert Greene (2022-07-21) // ★
+- **The Ten Thousand Doors of January** by Alix E. Harrow (2022-07-20) // ★★★★★ 
 - **At the Quiet Edge** by Victoria Helen Stone (2022-05-25) // ★★★
 - **No One Is Talking About This** by Patricia Lockwood (2022-05-03) // ★★★★
 - **Vivian Maier Developed: The Untold Story of the Photographer Nanny** by Ann Marks (2022-04-24) // ★★★★
