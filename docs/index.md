@@ -21,6 +21,7 @@ DNF - Did Not Finish
 Most recently-read books are shown first.
 
 ----
+- **Endangered Pleasures** by Barbara Holland (2022-08-15) // ★★★★ 
 - **The Daily Laws** by Robert Greene (2022-07-21) // ★
 - **The Ten Thousand Doors of January** by Alix E. Harrow (2022-07-20) // ★★★★★ 
 - **At the Quiet Edge** by Victoria Helen Stone (2022-05-25) // ★★★
