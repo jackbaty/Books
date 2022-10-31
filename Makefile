@@ -9,7 +9,7 @@ build:
 
 deploy: build commit push
 	@echo "\033[0;32mDeploying updates...\033[0m"
-	rsync -v -rz --checksum --delete --no-perms $(LOCAL_DIR) $(SERVER_HOST):$(SERVER_DIR)
+	rsync -v -rz --checksum --delete --no-perms $(LOCAL_DIR)/public/ $(SERVER_HOST):$(SERVER_DIR)
 
 commit:
 	@echo "\033[0;32mAdding changes\033[0m"
