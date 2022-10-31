@@ -4,7 +4,7 @@ LOCAL_DIR=/Users/jbaty/sites/books.baty.net
 TARGET=DigitalOcean
 
 build:
-	pandoc -s books.md -o index.html
+	pandoc -s books.md --css=pandoc.css -o index.html
 
 
 deploy: build commit push
