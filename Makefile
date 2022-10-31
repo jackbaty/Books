@@ -1,10 +1,10 @@
 SERVER_HOST=books.baty.net
 SERVER_DIR=/home/jbaty/apps/books.baty.net/public_html
-LOCAL_DIR=/Users/jbaty/sites/books.baty.net/public
+LOCAL_DIR=/Users/jbaty/sites/books.baty.net
 TARGET=DigitalOcean
 
 build:
-	pandoc -s books.md --css=$(LOCAL_DIR)/pandoc.css -o $(LOCAL_DIR)/index.html
+	pandoc -s books.md --css=$(LOCAL_DIR)/public/pandoc.css -o $(LOCAL_DIR)/public/index.html
 
 
 deploy: build commit push
