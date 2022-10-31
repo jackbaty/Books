@@ -1,4 +1,6 @@
-# Books I've Read
+---
+title: Books I've Read
+---
 
 This is a list of the books that I have read. The ones I remember, at least. I didn't start recording the dates until 2010. Books read before then use 1999-01-01 as the date.
 
