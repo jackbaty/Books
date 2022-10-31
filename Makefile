@@ -1,15 +1,15 @@
 SERVER_HOST=books.baty.net
 SERVER_DIR=/home/jbaty/apps/books.baty.net/public_html
-LOCAL_DIR=/Users/jbaty/sites/books.baty.net
+LOCAL_DIR=/Users/jbaty/sites/books.baty.net/public
 TARGET=DigitalOcean
 
 build:
-	pandoc -s books.md --css=pandoc.css -o index.html
+	pandoc -s books.md --css=$(LOCAL_DIR)/pandoc.css -o $(LOCAL_DIR)/index.html
 
 
 deploy: build commit push
 	@echo "\033[0;32mDeploying updates...\033[0m"
-	rsync -v -rz --checksum --delete --no-perms $(LOCAL_DIR)/index.html $(SERVER_HOST):$(SERVER_DIR)
+	rsync -v -rz --checksum --delete --no-perms $(LOCAL_DIR) $(SERVER_HOST):$(SERVER_DIR)
 
 commit:
 	@echo "\033[0;32mAdding changes\033[0m"
