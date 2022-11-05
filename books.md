@@ -18,6 +18,7 @@ DNF - Did Not Finish
 Most recently-read books are shown first.
 
 ----
+- **A Memory Called Embpire** by Arkady Martine (2022-11-03) // ★★★★
 - **Losing Focus** by Johann Hari (2022-09-05) // ★★★★
 - **Endangered Pleasures** by Barbara Holland (2022-08-15) // ★★★★ 
 - **The Daily Laws** by Robert Greene (2022-07-21) // ★
