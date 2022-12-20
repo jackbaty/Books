@@ -19,7 +19,7 @@ Most recently-read books are shown first.
 
 
 ----
-- **If This Book Exists, You're In the Wrong Universe by Jason Pargin (2022-12-16) // ★★★★
+- **If This Book Exists, You're In the Wrong Universe by Jason Pargin** (2022-12-16) // ★★★★
 - **A Memory Called Empire** by Arkady Martine (2022-11-03) // ★★★★
 - **Losing Focus** by Johann Hari (2022-09-05) // ★★★★
 - **Endangered Pleasures** by Barbara Holland (2022-08-15) // ★★★★ 
