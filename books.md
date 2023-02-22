@@ -19,7 +19,9 @@ Most recently-read books are shown first.
 
 
 ----
+- **Why People Photograph** by Robert Adams (2023-02-21) // ★★★
 - **Camera Lucida** by Roland Barthes (2023-02-01) // ★★★★
+- **Antinet Zettelkasten** by Scott P. Scheper (2023-01-29) // ★★★
 - **Walking** by Thomas Bernhard (2023-01-25) // ★★★★
 - **If This Book Exists, You're In the Wrong Universe by Jason Pargin** (2022-12-16) // ★★★★
 - **A Memory Called Empire** by Arkady Martine (2022-11-03) // ★★★★
