@@ -17,8 +17,8 @@ DNF - Did Not Finish
 
 Most recently-read books are shown first.
 
-
 ----
+- **Delta-V** by Daniel Suarez (2023-03-25) // ★★★
 - **Why People Photograph** by Robert Adams (2023-02-21) // ★★★
 - **Camera Lucida** by Roland Barthes (2023-02-01) // ★★★★
 - **Antinet Zettelkasten** by Scott P. Scheper (2023-01-29) // ★★★
