@@ -38,7 +38,7 @@ Most recently-read books are listed first.
 - **Leonardo da Vinci** by Walter Isaacson (2022-04-11) // ★★★★
 - **The Real Deal: Field Notes from the Life of a Working Photographer** by Joe McNally (2022-04-07) // ★★★
 - **The Future of Stuff** by Vinay Gupta (2022-03-06) // ★★★
-- **The Scout Mindset: Why Some People See Things Clearly and Others Don'tThe Scout Mindset** by Julia Galef (2022-03-01) // ★★★★★
+- **The Scout Mindset: Why Some People See Things Clearly and Others Don't* by Julia Galef (2022-03-01) // ★★★★★
 - **Later** by Stephen King (2022-02-22) // ★★★
 - **Doomsday Book (Oxford Time Travel, #1)** by Connie Willis (2022-02-14) // ★★★★
 - **Four Thousand Weeks** by Oliver Burkeman (2022-01-06) // DNF
