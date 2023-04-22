@@ -15,9 +15,11 @@ DNF - Did Not Finish
 
 # Books
 
-Most recently-read books are shown first.
+Most recently-read books are listed first.
 
 ----
+- **Sea of Tranquility** by Emily St. John Mandel (2023-04-21) / ★★★
+- **Escape into Meaning** by Evan Puschak (2023-04-14) / ★★★★
 - **Delta-V** by Daniel Suarez (2023-03-25) // ★★★
 - **Why People Photograph** by Robert Adams (2023-02-21) // ★★★
 - **Camera Lucida** by Roland Barthes (2023-02-01) // ★★★★
