@@ -7,7 +7,10 @@ title: Books I've Read
 Most recently-read books are listed first.
 
 ----
-- **Faith, Hope and Carnage** by Nick Cave, Sean O'Hagan (2023-07-14) // ★★★★★
+- **Low Tech Life** by Jose Briones (2023-07-10) // ★★★
+- **Faith, Hope and Carnage** by Nick Cave, Sean O'Hagan (2023-07-02) // ★★★★★
+- **Skullcrack City** by Jeremy Robert Johnson (2023-06-30) // ★★★
+- **Excellent Advice for Living** by Kevin Kelly (2023-06-14) // ★★★★★
 - **Sea of Tranquility** by Emily St. John Mandel (2023-04-21) // ★★★
 - **Escape into Meaning** by Evan Puschak (2023-04-14) // ★★★★
 - **Engineering Management for the Rest of Us** by Sarah Drasner (2023-04-14) // ★★★
