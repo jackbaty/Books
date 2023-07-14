@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -28,25 +31,22 @@
 <header id="title-block-header">
 <h1 class="title">Books I’ve Read</h1>
 </header>
-<p>This is a list of the books that I have read. The ones I remember, at
-least. I didn’t start recording the dates until 2010. Books read before
-then use 1999-01-01 as the date.</p>
-<p>My rating system works like this:</p>
-<p>⭐️⭐️⭐️⭐️⭐️ - Loved it!<br />
-⭐️⭐️⭐️⭐️ - It was good<br />
-⭐️⭐️⭐️ - It was OK<br />
-⭐️⭐️ - I didn’t like it<br />
-⭐️ - Hated it<br />
-DNF - Did Not Finish</p>
 <h1 id="books">Books</h1>
 <p>Most recently-read books are listed first.</p>
 <hr />
 <ul>
+<li><strong>Faith, Hope and Carnage</strong> by Nick Cave, Sean O’Hagan
+(2023-07-14) // ★★★★★</li>
 <li><strong>Sea of Tranquility</strong> by Emily St. John Mandel
-(2023-04-21) / ★★★</li>
-<li><strong>Escape into Meaning</strong> by Evan Puschak (2023-04-14) /
+(2023-04-21) // ★★★</li>
+<li><strong>Escape into Meaning</strong> by Evan Puschak (2023-04-14) //
 ★★★★</li>
+<li><strong>Engineering Management for the Rest of Us</strong> by Sarah
+Drasner (2023-04-14) // ★★★</li>
+<li><strong>Wool</strong> by Hugh Howey (2023-04-04) // ★★★★★</li>
 <li><strong>Delta-V</strong> by Daniel Suarez (2023-03-25) // ★★★</li>
+<li><strong>Stranger than Kindness</strong> by Nick Cave (2023-03-06) //
+★★★</li>
 <li><strong>Why People Photograph</strong> by Robert Adams (2023-02-21)
 // ★★★</li>
 <li><strong>Camera Lucida</strong> by Roland Barthes (2023-02-01) //
@@ -55,8 +55,8 @@ DNF - Did Not Finish</p>
 (2023-01-29) // ★★★</li>
 <li><strong>Walking</strong> by Thomas Bernhard (2023-01-25) //
 ★★★★</li>
-<li><strong>If This Book Exists, You’re In the Wrong Universe by Jason
-Pargin</strong> (2022-12-16) // ★★★★</li>
+<li><strong>If This Book Exists, You’re In the Wrong Universe</strong>
+by Jason Pargin (2022-12-16) // ★★★★</li>
 <li><strong>A Memory Called Empire</strong> by Arkady Martine
 (2022-11-03) // ★★★★</li>
 <li><strong>Losing Focus</strong> by Johann Hari (2022-09-05) //
@@ -81,8 +81,8 @@ Control</strong> by George Dyson (2022-04-19) // ★★★</li>
 Photographer</strong> by Joe McNally (2022-04-07) // ★★★</li>
 <li><strong>The Future of Stuff</strong> by Vinay Gupta (2022-03-06) //
 ★★★</li>
-<li>**The Scout Mindset: Why Some People See Things Clearly and Others
-Don’t* by Julia Galef (2022-03-01) // ★★★★★</li>
+<li><strong>The Scout Mindset: Why Some People See Things Clearly and
+Others Don’t</strong> by Julia Galef (2022-03-01) // ★★★★★</li>
 <li><strong>Later</strong> by Stephen King (2022-02-22) // ★★★</li>
 <li><strong>Doomsday Book (Oxford Time Travel, #1)</strong> by Connie
 Willis (2022-02-14) // ★★★★</li>

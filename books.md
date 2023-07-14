@@ -2,30 +2,23 @@
 title: Books I've Read
 ---
 
-This is a list of the books that I have read. The ones I remember, at least. I didn't start recording the dates until 2010. Books read before then use 1999-01-01 as the date.
-
-My rating system works like this:
-
-⭐️⭐️⭐️⭐️⭐️ - Loved it!  
-⭐️⭐️⭐️⭐️ - It was good  
-⭐️⭐️⭐️ - It was OK  
-⭐️⭐️ - I didn’t like it  
-⭐️ - Hated it  
-DNF - Did Not Finish
-
 # Books
 
 Most recently-read books are listed first.
 
 ----
-- **Sea of Tranquility** by Emily St. John Mandel (2023-04-21) / ★★★
-- **Escape into Meaning** by Evan Puschak (2023-04-14) / ★★★★
+- **Faith, Hope and Carnage** by Nick Cave, Sean O'Hagan (2023-07-14) // ★★★★★
+- **Sea of Tranquility** by Emily St. John Mandel (2023-04-21) // ★★★
+- **Escape into Meaning** by Evan Puschak (2023-04-14) // ★★★★
+- **Engineering Management for the Rest of Us** by Sarah Drasner (2023-04-14) // ★★★
+- **Wool** by Hugh Howey (2023-04-04) // ★★★★★ 
 - **Delta-V** by Daniel Suarez (2023-03-25) // ★★★
+- **Stranger than Kindness** by Nick Cave (2023-03-06) // ★★★
 - **Why People Photograph** by Robert Adams (2023-02-21) // ★★★
 - **Camera Lucida** by Roland Barthes (2023-02-01) // ★★★★
 - **Antinet Zettelkasten** by Scott P. Scheper (2023-01-29) // ★★★
 - **Walking** by Thomas Bernhard (2023-01-25) // ★★★★
-- **If This Book Exists, You're In the Wrong Universe by Jason Pargin** (2022-12-16) // ★★★★
+- **If This Book Exists, You're In the Wrong Universe** by Jason Pargin (2022-12-16) // ★★★★
 - **A Memory Called Empire** by Arkady Martine (2022-11-03) // ★★★★
 - **Losing Focus** by Johann Hari (2022-09-05) // ★★★★
 - **Endangered Pleasures** by Barbara Holland (2022-08-15) // ★★★★ 
@@ -38,7 +31,7 @@ Most recently-read books are listed first.
 - **Leonardo da Vinci** by Walter Isaacson (2022-04-11) // ★★★★
 - **The Real Deal: Field Notes from the Life of a Working Photographer** by Joe McNally (2022-04-07) // ★★★
 - **The Future of Stuff** by Vinay Gupta (2022-03-06) // ★★★
-- **The Scout Mindset: Why Some People See Things Clearly and Others Don't* by Julia Galef (2022-03-01) // ★★★★★
+- **The Scout Mindset: Why Some People See Things Clearly and Others Don't** by Julia Galef (2022-03-01) // ★★★★★
 - **Later** by Stephen King (2022-02-22) // ★★★
 - **Doomsday Book (Oxford Time Travel, #1)** by Connie Willis (2022-02-14) // ★★★★
 - **Four Thousand Weeks** by Oliver Burkeman (2022-01-06) // DNF
