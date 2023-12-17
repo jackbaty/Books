@@ -81,7 +81,7 @@ Most recently-read books are listed first.
 - **The Soul of an Entrepreneur** by David Sax (2020-05-04) // ★★★
 - **Devoted** by Dean Koontz (2020-04-23) // ★★★
 - **The Phoenix Project** by Gene Kim // ★★★
-- **Recursion** by Black Crouch (2020-04-05) // ★★★
+- **Recursion** by Blake Crouch (2020-04-05) // ★★★
 - **American Dirt** by Jeanine Cummins (2020-03-09) // ★
 - **The Wisdom of Insecurity** by Alan W. Watts (2020-03-06) // ★★
 - **The Instructions** by Adam Levin (2020-02-15) // ★★★★
