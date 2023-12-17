@@ -4,6 +4,8 @@ title: Books I've Read
 
 Most recently-read books are listed first.
 
+Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
+
 ----
 
 ## 2023
