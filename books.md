@@ -2,11 +2,13 @@
 title: Books I've Read
 ---
 
-# Books
-
 Most recently-read books are listed first.
 
 ----
+
+## 2023
+
+- **Dedicated** by Pete Davis (2023-08-15) // ★★
 - **Low Tech Life** by Jose Briones (2023-07-10) // ★★★
 - **Faith, Hope and Carnage** by Nick Cave, Sean O'Hagan (2023-07-02) // ★★★★★
 - **Skullcrack City** by Jeremy Robert Johnson (2023-06-30) // ★★★
@@ -15,12 +17,16 @@ Most recently-read books are listed first.
 - **Escape into Meaning** by Evan Puschak (2023-04-14) // ★★★★
 - **Engineering Management for the Rest of Us** by Sarah Drasner (2023-04-14) // ★★★
 - **Wool** by Hugh Howey (2023-04-04) // ★★★★★ 
+- **Essential Scrum** by Ken Rubin (2023-04-01) // ★★★
 - **Delta-V** by Daniel Suarez (2023-03-25) // ★★★
 - **Stranger than Kindness** by Nick Cave (2023-03-06) // ★★★
 - **Why People Photograph** by Robert Adams (2023-02-21) // ★★★
 - **Camera Lucida** by Roland Barthes (2023-02-01) // ★★★★
 - **Antinet Zettelkasten** by Scott P. Scheper (2023-01-29) // ★★★
 - **Walking** by Thomas Bernhard (2023-01-25) // ★★★★
+
+## 2022
+
 - **If This Book Exists, You're In the Wrong Universe** by Jason Pargin (2022-12-16) // ★★★★
 - **A Memory Called Empire** by Arkady Martine (2022-11-03) // ★★★★
 - **Losing Focus** by Johann Hari (2022-09-05) // ★★★★
@@ -38,6 +44,9 @@ Most recently-read books are listed first.
 - **Later** by Stephen King (2022-02-22) // ★★★
 - **Doomsday Book (Oxford Time Travel, #1)** by Connie Willis (2022-02-14) // ★★★★
 - **Four Thousand Weeks** by Oliver Burkeman (2022-01-06) // DNF
+
+## 2021
+
 - **100 Things We've Lost to the Internet** by Pamela Paul (2021-12-06) // ★★★
 - **A Box of Matches** by Nicholson Baker (2021-11-28) // ★★★★
 - **Greenlights** by Matthew McConnaughey (2021-11-02) // ★★★★
@@ -60,6 +69,9 @@ Most recently-read books are listed first.
 - **Handmade: Creative Focus in the Age of Distraction** by Gary Rogowski (2021-02-19) // ★★★★
 - **Zoey Punches the Future in the Dick** by David Wong (2021-01-27) // ★★★★
 - **The Mote in God's Eye** by Jerry Pournelle, Larry Niven (2021-01-22) // ★★★★
+
+## 2020
+
 - **Futuristic Violence and Fancy Suits (Zoey Ashe, #1)** by David Wong (2020-12-27) // ★★★★
 - **More Effective Agile** by Steve McConnell (2020-10-10) // ★★★
 - **The Permanent Portfolio** by Craig Rowland (2020-07-22) // ★★★
@@ -75,6 +87,9 @@ Most recently-read books are listed first.
 - **The Instructions** by Adam Levin (2020-02-15) // ★★★★
 - **How to Do Nothing** by Jenny Odell (2020-02-05) // ★★
 - **A Gentle Madness: Bibliophiles, Bibliomanes, and the Eternal Passion for Books** by Nicholas A. Basbanes (2020-01-05) // ★★★★
+
+## 2019
+
 - **The Art of Frugal Hedonism** by Annie Raser-Rowland (2019-11-29) // ★★★
 - **Ancillary Justice (Imperial Radch #1)** by Ann Leckie (2019-11-21) // ★★
 - **What Should I Do with My Life?** by Po Bronson (2019-11-07) // ★★★
@@ -109,6 +124,9 @@ Most recently-read books are listed first.
 - **The Ghost Brigades** by John Scalzi (2019-01-08)
 - **Travels with Epicurus** by Daniel Klein (2019-01-06)
 - **Old Man's War** by John Scalzi (2019-01-02)
+
+## 2018
+
 - **How to Invent Everything** by Ryan North (2018-12-29)
 - **Killers of the Flower Moon: The Osage Murders and the Birth of the FBI** by David Grann (2018-12-25)
 - **The Consuming Fire** by John Scalzi (2018-12-07)
@@ -132,6 +150,9 @@ Most recently-read books are listed first.
 - **What The Hell Did I Just Read** by David Wong (2018-03-04)
 - **The Lathe of Heaven** by Ursula K Le Guin (2018-02-25)
 - **The Punch Escrow** by Tal M. Klein (2018-01-27)
+
+## 2017
+
 - **Sourdough** by Robin Sloan (2017-12-20)
 - **Tribe of Mentors** by Tim Ferriss (2017-12-10)
 - **A Philosophy of Walking** by Frédéric Gros, John Howe (2017-12-10)
@@ -159,6 +180,9 @@ Most recently-read books are listed first.
 - **The View from the Cheap Seats: Selected Nonfiction** by Neil Gaiman (2017-01-15)
 - **Leviathan Wakes** by James S.A. Corey (2017-01-09)
 - **Pricing Design** by Dan Mall (2017-01-08)
+
+## 2016
+
 - **The View from the Cheap Seats** by Neil Gaiman (2016-12-27)
 - **All the Birds in the Sky** by Charlie Jane Anders (2016-12-26)
 - **The Personal MBA: Master the Art of Business** by Josh Kaufman (2016-12-03)
@@ -175,6 +199,9 @@ Most recently-read books are listed first.
 - **Turn the Ship Around** by L. David Marquet (2016-03-30)
 - **Anything You Want** by Derek Sivers (2016-03-30)
 - **Enough** by John C. Bogle (2016-01-17)
+
+## 2015
+
 - **The Art of Stillness: Adventures in Going Nowhere** by Piko Iyer (2015-12-13)
 - **Secondhand Souls** by Christopher Moore (2015-11-12)
 - **Seveneves** by Neal Stephenson (2015-10-17)
@@ -191,6 +218,9 @@ Most recently-read books are listed first.
 - **The Victorian Internet** by Tom Standage (2015-01-11)
 - **The Martian** by Andy Weir (2015-01-05)
 - **Dust** by Hugh Howley (2015-01-04)
+
+## 2014
+
 - **You Are Here** by Chris Hadfield (2014-12-26)
 - **Revival** by Stephen King (2014-12-17)
 - **Shift** by Hugh Howley (2014-12-03)
@@ -206,6 +236,9 @@ Most recently-read books are listed first.
 - **Meditations: A New Translation** by Marcus Aurelius (2014-01-21)
 - **Ten Things Every Child with Autism Wishes You Knew** by Ellen Notbohm (2014-01-16)
 - **The Wind-Up Bird Chronicle: A Novel** by Murakami, Haruki (2014-01-01)
+
+## 2013
+
 - **Dr. Sleep** by King, Stephen (2013-12-17)
 - **Truth in Advertising: A Novel** by Kenney, John (2013-10-02)
 - **The Dog Stars** by Peter, Heller (2013-09-28)
@@ -228,9 +261,12 @@ Most recently-read books are listed first.
 - **More Baths Less Talking: Notes from the Reading Life of a Celebrated Author Locked in Battle with Football, Family, and Time Itself** by Hornby, Nick (2013-02-09)
 - **Arguably: Essays** by Christopher Hitchens ()
 - **Every Love Story Is a Ghost Story: A Life of David Foster Wallace** by Max, D. T. (2013-01-21)
-- **Slouching Towards Bethlehem: Essays (FSG Classics)** by Didion, Joan (1999-01-01)
+- **Slouching Towards Bethlehem: Essays (FSG Classics)** by Didion, Joan (2013-01-01)
 - **The Handmaid's Tale** by Atwood, Margaret (2013-01-03)
 - **Daytripper** by Ba, Gabriel;Moon, Fabio (2013-01-01)
+
+## 2012
+
 - **Mr. Penumbra's 24-Hour Bookstore: A Novel** by Sloan, Robin (2012-12-10)
 - **John Dies at the End** by Wong, David (2012-11-19)
 - **This Book Is Full of Spiders: Seriously, Dude, Don't Touch It** by Wong, David (2012-11-12)
@@ -263,6 +299,9 @@ Most recently-read books are listed first.
 - **Information Diet** by Clay A. Johnson (2012-02-18)
 - **Should your Idea Become a Business** by Mike Suman (2012-01-27)
 - **Music: What Happened?** by Scott Miller (2012-01-04)
+
+## 2011
+
 - **I Was Blind but Now I See** by James Altucher (2011-12-31)
 - **Magnum: Contact Sheets** by Kristen Lubben (2011-12-02)
 - **REAMDE** by Neal Stephenson (2011-12-01)
@@ -273,6 +312,9 @@ Most recently-read books are listed first.
 - **Believing is Seeing** by Errol Morris (2011-08-10)
 - **Poke The Box** by Seth Godin (2011-06-01)
 - **The Stupidest Angel** by Christopher Moore (2011-01-01)
+
+## 2010
+
 - **Way Beyond Monochrome** by Ralph W. Lambrecht;Chris Woodhouse (2010-12-28)
 - **The 4-hour body** by Timothy Ferriss (2010-12-28)
 - **C** by Tom McCarthy (2010-12-28)
@@ -298,12 +340,21 @@ Most recently-read books are listed first.
 - **C** by McCarthy, Tom (2010-01-28)
 - **The City and The City** by China Miéville (2010-01-01)
 - **Good Omens** by Terry Pratchett;Neil Gaiman (2010-01-01)
+
+## 2009
+
 - **Island of the Sequined Love Nun** by Christopher Moore (2009-03-12)
+
+## 2008
+
 - **The Road** by Cormac McCarthy (2008-12-24)
 - **Lamb: The Gospel According to Biff, Christ's Childhood Pal** by Christopher Moore (2008-12-24)
 - **Duma Key** by Stephen King (2008-12-21)
 - **When You Are Engulfed in Flames** by David Sedaris (2008-12-21)
 - **The Time Traveler's Wife** by Audrey Niffenegger (2008-06-26)
+
+## Before 2008 (undated)
+
 - **On Writing Well: The Classic Guide to Writing Nonfiction** by William Zinsser (1999-01-01)
 - **The Paradox of Choice: Why More Is Less** by Barry Schwartz (1999-01-01)
 - **Good Omens: The Nice & Accurate Prophecies of Agnes Nutter, Witch** by Terry Pratchett (1999-01-01)
