@@ -1,0 +1,4 @@
+Caddyfile
+.auctex-auto/
+.DS_Store
+public/
