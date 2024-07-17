@@ -12,6 +12,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ## 2024
 
+- **Moonbound** by Robin Sloan (2024-07-17) // ★★★★
 - **A System for Writing** by Bob Doto (2024-07-15) // ★★★★
 - **Everything In its Place** by Dan Charnas (2024-07-03) // ★★
 - **Catching the Big Fish** by David Lynch (2024-05-30) // ★★★★
