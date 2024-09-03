@@ -12,6 +12,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ## 2024
 
+- **Service Model** by Adrian Tchaikovsky (2024-09-02) // ★★★★
 - **The Overstory** by Richard Powers (2024-08-03) // ★★★
 - **The Art of Frugal Hedonism** [re-read] by Annie Raser-Rowland (2024-07-17) // ★★★
 - **Moonbound** by Robin Sloan (2024-07-17) // ★★★★
