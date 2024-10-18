@@ -12,6 +12,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ## 2024
 
+- **Pulphead** by John Jeremiah Sullivan (2024-10-17) // ★★★★
 - **The Notebook: A History of Thinking on Paper** by Roland Allen (2024-10-13) // ★★★★
 - **Service Model** by Adrian Tchaikovsky (2024-09-02) // ★★★★
 - **The Overstory** by Richard Powers (2024-08-03) // ★★★
