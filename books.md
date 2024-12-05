@@ -6,11 +6,13 @@ Most recently-read books are listed first.
 
 Last updated: Friday, November 1, 2024
 
+
 Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ----
 
 ## 2024
+- **Illuminae** by Amie Kaufman, Jay Kristoff (2024-12-04) // ★★★
 - **Pastoralia** by George Saunders (2024-11-01) // ★★★★★
 - **Pulphead** by John Jeremiah Sullivan (2024-10-17) // ★★★★
 - **The Notebook: A History of Thinking on Paper** by Roland Allen (2024-10-13) // ★★★★
