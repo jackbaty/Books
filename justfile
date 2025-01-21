@@ -1,4 +1,4 @@
-SERVER_HOST := "server01.baty.net"
+SERVER_HOST := "server03.baty.net"
 SERVER_USER := "root"
 SERVER_DIR := "/srv/jackbaty.com/public_html/books"
 LOCAL_DIR := "/Users/jbaty/Sync/sites/books/public"
