@@ -4,12 +4,16 @@ title: Books I've Read
 
 Most recently-read books are listed first.
 
-Last updated: December 5, 2024
+Last updated: January 26, 2025
 
 
 Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ----
+
+## 2025
+
+- **Blindsight** by Peter Watts (2025-01-25) // ★★★★★
 
 ## 2024
 
