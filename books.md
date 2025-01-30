@@ -13,6 +13,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ## 2025
 
+- **Gaslit** by RR Haywood (2025-01-29) // ★★
 - **Blindsight** by Peter Watts (2025-01-25) // ★★★★★
 
 ## 2024
