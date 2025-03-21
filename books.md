@@ -4,7 +4,7 @@ title: Books I've Read
 
 Most recently-read books are listed first.
 
-Last updated: February 27, 2025
+Last updated: March 21, 2025
 
 
 Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
