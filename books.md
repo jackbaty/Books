@@ -609,4 +609,4 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ----
 
-Copyright (C) 2024 by [Jack Baty](https://baty.net)
+[Jack Baty](https://baty.net)
