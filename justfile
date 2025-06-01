@@ -1,6 +1,6 @@
-SERVER_HOST := "server03.baty.net"
-SERVER_USER := "root"
-SERVER_DIR := "/srv/jackbaty.com/public_html/books"
+SERVER_HOST := "bsd01.baty.net"
+SERVER_USER := "jbaty"
+SERVER_DIR := "/usr/local/www/jackbaty.com/public_html/books"
 LOCAL_DIR := "/Users/jbaty/Documents/Notes/books/public_html"
 TARGET := "Hetzner"
 
