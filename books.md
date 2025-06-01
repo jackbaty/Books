@@ -13,6 +13,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ## 2025
 
+- **The Year of Magical Thinking** by Joan Didion (2025-04-28) // ★★★★
 - **Tiny Experiments** by Anne-Laure Le Cunff (2025-04-02) // ★★★★
 - **Soul Cards** by Hailey Rene (2025-03-15) // ★★★
 - **The White Album** by Joan Didion (2025-02-27) // ★★★★
