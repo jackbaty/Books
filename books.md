@@ -12,7 +12,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 ----
 
 ## 2025
-
+- **Polostan** by Neal Stephenson (2025-06-06) // ★★★★
 - **The Year of Magical Thinking** by Joan Didion (2025-04-28) // ★★★★
 - **Tiny Experiments** by Anne-Laure Le Cunff (2025-04-02) // ★★★★
 - **Soul Cards** by Hailey Rene (2025-03-15) // ★★★
@@ -37,7 +37,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 - **Everything In its Place** by Dan Charnas (2024-07-03) // ★★
 - **Catching the Big Fish** by David Lynch (2024-05-30) // ★★★★
 - **The Stranger** by Albert Camus (2024-05-13) // ★★★★
-- **The Wager: A Tale of Shipwreck, Mutiny and Murder** by David Grann (2024-05-06) // ★★★★★ 
+- **The Wager: A Tale of Shipwreck, Mutiny and Murder** by David Grann (2024-05-06) // ★★★★★
 - **Lies My Teacher Told Me** by James W. Loewen (2024-05-02) // ★★★
 - **Die with Zero** by Bill Perkins (2024-04-15) // ★★★
 - **A Fire Upon the Deep** by Vernor Vinge (2024-03-25) // ★★★★
@@ -62,7 +62,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 - **Sea of Tranquility** by Emily St. John Mandel (2023-04-21) // ★★★
 - **Escape into Meaning** by Evan Puschak (2023-04-14) // ★★★★
 - **Engineering Management for the Rest of Us** by Sarah Drasner (2023-04-14) // ★★★
-- **Wool** by Hugh Howey (2023-04-04) // ★★★★★ 
+- **Wool** by Hugh Howey (2023-04-04) // ★★★★★
 - **Essential Scrum** by Ken Rubin (2023-04-01) // ★★★
 - **Delta-V** by Daniel Suarez (2023-03-25) // ★★★
 - **Stranger than Kindness** by Nick Cave (2023-03-06) // ★★★
@@ -76,9 +76,9 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 - **If This Book Exists, You're In the Wrong Universe** by Jason Pargin (2022-12-16) // ★★★★
 - **A Memory Called Empire** by Arkady Martine (2022-11-03) // ★★★★
 - **Losing Focus** by Johann Hari (2022-09-05) // ★★★★
-- **Endangered Pleasures** by Barbara Holland (2022-08-15) // ★★★★ 
+- **Endangered Pleasures** by Barbara Holland (2022-08-15) // ★★★★
 - **The Daily Laws** by Robert Greene (2022-07-21) // ★
-- **The Ten Thousand Doors of January** by Alix E. Harrow (2022-07-20) // ★★★★★ 
+- **The Ten Thousand Doors of January** by Alix E. Harrow (2022-07-20) // ★★★★★
 - **At the Quiet Edge** by Victoria Helen Stone (2022-05-25) // ★★★
 - **No One Is Talking About This** by Patricia Lockwood (2022-05-03) // ★★★★
 - **Vivian Maier Developed: The Untold Story of the Photographer Nanny** by Ann Marks (2022-04-24) // ★★★★
