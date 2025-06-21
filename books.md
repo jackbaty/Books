@@ -12,6 +12,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 ----
 
 ## 2025
+- **Ikigai & Kaizen** by Anthony Raymond (2025-06-19) // ★★★
 - **Polostan** by Neal Stephenson (2025-06-06) // ★★★★
 - **The Year of Magical Thinking** by Joan Didion (2025-04-28) // ★★★★
 - **Tiny Experiments** by Anne-Laure Le Cunff (2025-04-02) // ★★★★
