@@ -12,6 +12,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 ----
 
 ## 2025
+- **The Children of Time** by Adrian Tchaikovsky (2025-09-11) // ★★★★
 - **Things Become Other Things** by Craig Mod (2025-07-19) // ★★★★★
 - **Ikigai & Kaizen** by Anthony Raymond (2025-06-19) // ★★★
 - **Polostan** by Neal Stephenson (2025-06-06) // ★★★★
