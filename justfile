@@ -1,7 +1,7 @@
 SERVER_HOST := "server03.baty.net"
 SERVER_USER := "jbaty"
 SERVER_DIR := "/srv/jackbaty.com/public_html/books"
-LOCAL_DIR := "/Users/jbaty/Documents/Notes/books/public_html"
+LOCAL_DIR := "/Users/jbaty/sites/books/public_html"
 TARGET := "Hetzner"
 
 default:

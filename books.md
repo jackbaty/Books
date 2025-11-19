@@ -12,6 +12,10 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 ----
 
 ## 2025
+
+- **The Tools** by Phil Stutz, Barry Michels (2025-10-30) // ★★★
+- **Utterly Lazy and Inattentive** by Martin Parr, Wendy Jones (2025-10-25) // ★★★★
+- **What are People For?** by Wendell Berry (2025-10-15) // ★★★
 - **Children of Time** by Adrian Tchaikovsky (2025-09-11) // ★★★★
 - **Things Become Other Things** by Craig Mod (2025-07-19) // ★★★★★
 - **Ikigai & Kaizen** by Anthony Raymond (2025-06-19) // ★★★
