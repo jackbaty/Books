@@ -4,7 +4,7 @@ title: Books I've Read
 
 Most recently-read books are listed first.
 
-Last updated: November 19, 2025
+Last updated: Sunday, December 28, 2025 
 
 
 Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
@@ -13,6 +13,8 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ## 2025
 
+- **Metamorphosis** by Franz Kafka (2025-12-13) // ★★★
+- **The Persuaders** by Anand Giridharadas (2025-11-20) // ★★★★
 - **The Tools** by Phil Stutz, Barry Michels (2025-10-30) // ★★★
 - **Utterly Lazy and Inattentive** by Martin Parr, Wendy Jones (2025-10-25) // ★★★★
 - **What are People For?** by Wendell Berry (2025-10-15) // ★★★
