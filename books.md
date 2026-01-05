@@ -11,6 +11,10 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ----
 
+## 2026
+
+- **Talking Pictures** by Ransom Riggs (2026-01-03) // ★★★★
+
 ## 2025
 
 - **Metamorphosis** by Franz Kafka (2025-12-13) // ★★★
