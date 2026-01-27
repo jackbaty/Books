@@ -13,6 +13,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ## 2026
 
+- **Anima Rising** by Christopher Moore (2026-01-27) // ★★★★
 - **Talking Pictures** by Ransom Riggs (2026-01-03) // ★★★★
 
 ## 2025
