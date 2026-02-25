@@ -17,7 +17,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 - **Anima Rising** by Christopher Moore (2026-01-27) // ★★★★
 - **Talking Pictures** by Ransom Riggs (2026-01-03) // ★★★★
 
-## 2025
+## 2025 (15)
 
 - **Metamorphosis** by Franz Kafka (2025-12-13) // ★★★
 - **The Persuaders** by Anand Giridharadas (2025-11-20) // ★★★★
@@ -35,7 +35,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 - **Gaslit** by RR Haywood (2025-01-29) // ★★
 - **Blindsight** by Peter Watts (2025-01-25) // ★★★★★
 
-## 2024
+## 2024 (25)
 
 - **Illuminae** by Amie Kaufman, Jay Kristoff (2024-12-04) // ★★★
 - **Pastoralia** by George Saunders (2024-11-01) // ★★★★★
@@ -63,7 +63,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 - **The Creative Act: A Way of Being** by Rick Rubin (2024-01-02) // ★★★★
 - **The Intellectual Life** by Antonin Sertillanges (2024-01-05) // ★★★
 
-## 2023
+## 2023 (20)
 
 - **Demon Copperhead** by Barbara Kingsolver (2023-12-22) // ★★★
 - **How to Disappear** by Akiko Busch (2023-12-10) // ★★★
@@ -86,7 +86,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 - **Antinet Zettelkasten** by Scott P. Scheper (2023-01-29) // ★★★
 - **Walking** by Thomas Bernhard (2023-01-25) // ★★★★
 
-## 2022
+## 2022 (17)
 
 - **If This Book Exists, You're In the Wrong Universe** by Jason Pargin (2022-12-16) // ★★★★
 - **A Memory Called Empire** by Arkady Martine (2022-11-03) // ★★★★
@@ -106,7 +106,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 - **Doomsday Book (Oxford Time Travel, #1)** by Connie Willis (2022-02-14) // ★★★★
 - **Four Thousand Weeks** by Oliver Burkeman (2022-01-06) // DNF
 
-## 2021
+## 2021 (22)
 
 - **100 Things We've Lost to the Internet** by Pamela Paul (2021-12-06) // ★★★
 - **A Box of Matches** by Nicholson Baker (2021-11-28) // ★★★★
@@ -131,7 +131,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 - **Zoey Punches the Future in the Dick** by David Wong (2021-01-27) // ★★★★
 - **The Mote in God's Eye** by Jerry Pournelle, Larry Niven (2021-01-22) // ★★★★
 
-## 2020
+## 2020 (15)
 
 - **Futuristic Violence and Fancy Suits (Zoey Ashe, #1)** by David Wong (2020-12-27) // ★★★★
 - **More Effective Agile** by Steve McConnell (2020-10-10) // ★★★
