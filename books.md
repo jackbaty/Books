@@ -4,7 +4,7 @@ title: Books I've Read
 
 Most recently-read books are listed first.
 
-Last updated: Wednesday, February 25, 2026
+Last updated: Sunday, March 1, 2026
 
 
 Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
@@ -13,6 +13,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ## 2026
 
+- **Manifesto for World Revolution** by Kalle Lasn (2026-02-27) // ★★★
 - **Dungeon Crawler Carl** by Matt Dinniman (2026-02-24) // ★★★★
 - **Anima Rising** by Christopher Moore (2026-01-27) // ★★★★
 - **Talking Pictures** by Ransom Riggs (2026-01-03) // ★★★★
