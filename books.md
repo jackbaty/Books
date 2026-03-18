@@ -13,6 +13,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ## 2026
 
+- **Small Gods** by Terry Pratchet (2026-03-14) // ★★★★
 - **Manifesto for World Revolution** by Kalle Lasn (2026-02-27) // ★★★
 - **Dungeon Crawler Carl** by Matt Dinniman (2026-02-24) // ★★★★
 - **Anima Rising** by Christopher Moore (2026-01-27) // ★★★★
