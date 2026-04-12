@@ -4,7 +4,7 @@ title: Books I've Read
 
 Most recently-read books are listed first.
 
-Last updated: Saturday, March 28, 2026
+Last updated: Sunday, April 12, 2026
 
 
 Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
@@ -13,6 +13,7 @@ Format is: `[TITLE] by [AUTHOR] ([DATE FINISHED]) // [RATING]`
 
 ## 2026
 
+- **I'm Starting to Worry About this Black Box of DOOM** by Jason Pargin (2026-04-10) // ★★★★
 - **Guards! Guards!** by Terry Pratchet (2026-03-27) // ★★★★
 - **There Is No Antimemetics Division** by ONTM (Sam Hughes) (2026-03-20) // ★★★★
 - **Small Gods** by Terry Pratchet (2026-03-14) // ★★★★
